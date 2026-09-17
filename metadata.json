@@ -1,0 +1,6 @@
+{
+  "name": "Personal Animated Website",
+  "description": "Compact animated video and motion editor portfolio showcase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
